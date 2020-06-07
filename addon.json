@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[RT] Sourcebans Integration",
+    "description": "Integrates Bans, Mutes, Servers from SourceBans to your forum",
+    "version_id": 1000170,
+    "version_string": "1.0.1",
+    "dev": "root | inzanty",
+    "dev_url": "https://hlmod.ru/members/root_mmo.113086/",
+    "faq_url": "t.me/root_mmo",
+    "support_url": "t.me/root_mmo",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fas fa-server"
+}
